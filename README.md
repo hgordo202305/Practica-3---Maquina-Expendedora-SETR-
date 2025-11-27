@@ -1,5 +1,8 @@
 # Practica 3 - Maquina-Expendedora (SETR)
+© 2025 *Hugo Gordo Gil*  
+Algunos derechos reservados. Este trabajo se entrega bajo la licencia **CC BY-SA 4.0**
 
+**Fecha de entrega:** 27/11/2025
 ---
 ## Descripción de la práctica
 
