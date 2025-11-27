@@ -102,9 +102,8 @@ Falta completar: _Aquí explicas tu arquitectura, organización del código, có
 ---
 
 ## Esquema del circuito  
-Falta completar: _Inserta aquí la imagen de Fritzing/Tinkercad_
-
-Ejemplo:  
+<img width="2968" height="1882" alt="MaquinaExpendedora_bb" src="https://github.com/user-attachments/assets/56d21cf1-fd5f-436d-ac9c-7d78e6f560f8" />
+ 
 
 
 
